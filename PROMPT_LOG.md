@@ -6,7 +6,6 @@
 - **Công cụ AI đã sử dụng:** ChatGPT
 
 ## 1. Yêu cầu ban đầu (Initial Prompt)
-
 > Tạo website giới thiệu câu lạc bộ bóng đá mang tên Legends FC bằng HTML5 và CSS3, không sử dụng JavaScript. Dùng semantic HTML5 gồm `header`, `nav`, `main`, `section`, `article`, `footer`; tạo bảng màu nhất quán bằng CSS Variables trong `:root`; dùng Flexbox/Grid; giao diện responsive, có hiệu ứng `:hover` và `:focus`; có logo SVG phong cách nghệ thuật và hình ảnh ngôi sao/huyền thoại bóng đá. Chia mã thành `index.html`, `style.css`, `assets/` và `PROMPT_LOG.md`.
 
 ## 2. Quá trình tinh chỉnh và giải quyết sự cố
